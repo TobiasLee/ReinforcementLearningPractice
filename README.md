@@ -14,7 +14,7 @@ Demos when learning RL to help understand the principles better.
 
 [Policy Gradient](http://tobiaslee.top/2018/03/06/Reinforcement-Learning1/) 
 
-Actor-Critic
+[Actor-Critic](http://tobiaslee.top/2018/03/09/Actor-Critic/) 
 
 ## To Do
 
